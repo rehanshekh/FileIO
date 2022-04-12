@@ -1,0 +1,2 @@
+EmpPayrollData{id=1, name='Rehan', salary=120000.0}
+EmpPayrollData{id=2, name='Ramiz', salary=362000.0}
